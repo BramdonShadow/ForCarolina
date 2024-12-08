@@ -287,9 +287,6 @@ body{
   opacity: 1;
 }
 @media (min-width: 320px) and (max-width: 550px){
-  body{
-    background-color: #9f6ea3;
-  }
   .title .titlesecon i{
     font-size: 40px;
   }
